@@ -1,0 +1,18 @@
+.card-container {
+    width: 80%;
+    margin: 30px auto;
+    padding: 30px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+
+.card-container-title {
+    display: flex;
+    align-items: center;
+    gap: 20;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
